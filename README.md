@@ -1,4 +1,4 @@
-# 📌 README: Count Unique People in a Video using YOLOv8
+# 📌Count Unique People in a Video using YOLOv8
 
 ## 🎯 Objective
 
